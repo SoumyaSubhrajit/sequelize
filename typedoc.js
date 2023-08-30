@@ -9,4 +9,3 @@ module.exports = {
   treatWarningsAsErrors: true,
 };
 
-// Adding the extra line
